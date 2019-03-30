@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+yarn-error.log
+yarn.lock
+yarn-error.log
+/build-storybook/
+/storybook-static/
+/cypress/screenshots/
+/__sapper__/
+/.sessions/

@@ -1,0 +1,8 @@
+{
+  "name": "kunapakbeta",
+  "files": [
+    "static",
+    "__sapper__/build",
+    "yarn.lock"
+  ]
+}
